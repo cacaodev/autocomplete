@@ -3,7 +3,7 @@
   "version": "1.8.6",
   "description": "Simple autocomplete component in vanilla JS",
   "author": "Grzegorz Tomicki",
-  "main": "dist/js/autocomplete.js",
+  "main": "dist/js/autocomplete.esm.js",
   "license": "MIT",
   "repository": {
     "type": "git",
